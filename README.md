@@ -64,16 +64,6 @@ features = {
 prediction = predict_video(model, scaler, features)
 ```
 
-## Repository Structure
-
-```
-├── notebooks/
-│   ├── Random_Forest_Regressor.ipynb
-│   └── TiktokViralPredictor - UpdatedLinearRegression.ipynb
-├── train.csv
-└── README.md
-```
-
 ## Technologies
 
 - Python
